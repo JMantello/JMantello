@@ -1,6 +1,6 @@
 # Hello, I'm Jonathan Mantello! 👋
 
-This is my personal GitHub profile. Here you can find some of my projects and contributions to other projects.
+This is my personal GitHub profile. Here you can find some of my projects and contributions to other projects, as well as some contact information and more about me as a developer.
 
 ## Table of contents
 - [Contact me](#contact-me)
@@ -8,18 +8,18 @@ This is my personal GitHub profile. Here you can find some of my projects and co
 - [Skills](#skills)
 
 ## Contact me
-The best way to connect is through my [LinkedIn](https://www.linkedin.com/in/jonathanmantello/) profile.
+The best way to contact me is through my [LinkedIn](https://www.linkedin.com/in/jonathanmantello/) profile.
 
 ## About me
 I'm a software developer apprentice and I'm currently working for [Expedia Group](https://www.expediagroup.com), partnered with [Multiverse Apprenticeships](https://www.multiverse.io/en-US/programs). I also graduated in Computer Science at [Renton Technical College](https://www.rtc.edu) in 2020. 
 
-In my current role, I work with a team of developers to build and maintain vital backend services for Expedia Group. I've been responsible for the development of the platform's metrics collection and monitoring. On a daily basis, I work with Java, Kotlin, and Spring Boot. I'm familiar with writing documentation, working with CI/CD pipelines, and vulnerability management.
+In my current role, I work with a team of developers to build and maintain critical backend services for Expedia Group. I've been responsible for the development of the platform's metrics collection and monitoring. I work with Java, Kotlin, and Spring Boot, and I'm familiar with writing documentation, working with CI/CD pipelines, and vulnerability management.
 
 I'm passionate about software development and I'm always looking for opportunities to learn and improve my skills. I also enjoy playing music, and I've been playing the guitar for over 10 years. 
 
 
 ## Skills
-I've had many opportunities to work with different technologies and programming languages throughout my career. Rather than listing them all, I'll list the ones I'm most confident with, and I'll also list the practices I'm most familiar with.
+I've had many opportunities to work with different technologies and programming languages throughout my career. Rather than listing them all, I'll list the ones I'm most confident and familiar with.
 
 ### Programming languages
 - Java - Spring Boot
@@ -27,15 +27,15 @@ I've had many opportunities to work with different technologies and programming 
 - JavaScript - React
 
 ### Project management
-- Agile, Sprints
+- Agile, Sprint planning
 - Jira
 - Confluence
 
 ### Development practices
-- Writing documentation
+- Documentation
 - Metrics collection and monitoring
-- Testing
 - Vulnerability management
+- Testing
 - Writing clean code
 - RESTful APIs, gRPC
 
