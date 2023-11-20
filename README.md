@@ -12,33 +12,40 @@ This is my personal GitHub profile. Here you can find some of my projects and co
 The best way to contact me is through my [LinkedIn](https://www.linkedin.com/in/jonathanmantello/) profile.
 
 ## About me
-I'm a software developer apprentice and I'm currently working for [Expedia Group](https://www.expediagroup.com), partnered with [Multiverse Apprenticeships](https://www.multiverse.io/en-US/programs). I also graduated in Computer Science at [Renton Technical College](https://www.rtc.edu) in 2020. 
+I'm a software developer apprentice and I'm currently working for [Expedia Group](https://www.expediagroup.com), partnered with [Multiverse Apprenticeships](https://www.multiverse.io/en-US/programs).
 
+### My current role with Expedia Group
 In my current role, I work with a team of developers to build and maintain critical backend services for Expedia Group. I've been responsible for the development of the platform's metrics collection and monitoring. I work with Java, Kotlin, and Spring Boot, and I'm familiar with writing documentation, working with CI/CD pipelines, and vulnerability management.
 
+### My background
+In 2021, I completed an internship with [Envestnet](https://www.envestnet.com) as a back-end software developer intern. I worked with a team of interns to build two projects for Envestnet. I worked with C#, MongoDB, and PostgreSQL, and I was responsible for the development of two RESTful APIs.
+
+In 2022, I graduated in Computer Science at [Renton Technical College](https://www.rtc.edu) with high honors. I participated in the student senate, was a peer tutor, recieved the Guided Pathways IDEAL Fellowship Scholarship, and started the computer science club.
+
+### My interests
 I'm passionate about software development and I'm always looking for opportunities to learn and improve my skills. I also enjoy playing music, and I've been playing the guitar for over 10 years. 
 
 
 ## Skills
-I've had many opportunities to work with different technologies and programming languages throughout my career. Rather than listing them all, I'll list the ones I'm most confident and familiar with.
-
-### Programming languages
-- Java - Spring Boot
-- Kotlin - Spring Boot
-- JavaScript - React
+I've had many opportunities to work with different technologies and programming languages throughout my developing career. Rather than listing them all, I'll list the ones I'm most confident and familiar with.
 
 ### Project management
 - Agile, Sprint planning
 - Jira
 - Confluence
 
+### Programming languages
+- Java - Spring Boot
+- Kotlin - Spring Boot
+- JavaScript - React
+
 ### Development practices
-- Documentation
+- Creating services with gRPC
 - Metrics collection and monitoring
-- Vulnerability management
-- Testing
+- Creating and maintaining documentation
 - Writing clean code
-- RESTful APIs, gRPC
+- Testing with MockK
+- Vulnerability patching
 
 ### CI/CD Pipelines
 - GitHub Actions
@@ -52,8 +59,13 @@ I've had many opportunities to work with different technologies and programming 
 - Splunk
 - Datadog
 
+### Databases
+- MongoDB
+- PostgreSQL
+- SQL Server
+
 ## Projects
-Here are a some of the projects I've worked on that showcase my growth throughout my time with Renton Technical College, my intership with Envnestnet, and my current apprenticeship.
+I've had the opportunity to work on many projects during my current apprenticeship, my intership with Envnestnet, and my time with Renton Technical College. Here are some that I've worked on which showcase my growth as a developer over the last few years.
 
 ### Apprenticeship projects
 - [Secret Recepi API](https://github.com/jm-multiverse/secret-recipe) - This is a RESTful API built with Kotlin and Spring Boot. It allows users to create, read, update, and delete recipes, and includes advanced server-side features like authentication, authorization with Auth0, testing, and more (In progress).
