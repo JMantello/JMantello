@@ -1,4 +1,4 @@
-# Hello, I'm Jonathan Mantello! 👋
+# Hello, I'm Jonathan Mantello  
 
 This is my personal GitHub profile. Here you can find some of my projects and contributions to other projects, as well as some contact information and more about me as a developer.
 
