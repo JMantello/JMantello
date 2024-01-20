@@ -11,7 +11,7 @@ Associate Software Development Engineer (Apprentice) at [Expedia Group](https://
 ### Current Role
 In my current role, I work on a team of developers to build and maintain critical backend services for Expedia Group. 
 
-I've been responsible for the development of the platform's metrics collection and monitoring, as well as vulnerability patching and resolution. I work primarily with Kotlin, Java, and Spring Boot, and I'm familiar with creating and updating documentation, observability with tools like Datadog and Splunk, working with CI/CD pipelines, and managing vulnerabilities.
+I've been responsible for the development of the platform's metrics collection and monitoring, as well as vulnerability patching and resolution. I work primarily with Kotlin, Java, and Spring Boot, and I'm familiar with creating and maintaining documentation, observability with tools like Datadog and Splunk, working with CI/CD pipelines, and managing vulnerabilities.
 
 ### Background
 - 2021 Intern as back-end developer at [Envestnet](https://www.envestnet.com) with C#, MongoDB, and PostgreSQL.
