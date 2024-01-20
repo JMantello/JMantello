@@ -31,7 +31,7 @@ I've had many opportunities to work with different technologies and programming 
 - **Databases:** MongoDB, PostgreSQL, SQL Server.
 
 ## Projects
-Explore some of my projects showcasing growth as a developer:
+Here are some projects to explore showcasing growth as a developer:
 
 ### Apprenticeship
 - [Secret Recipe API](https://github.com/jm-multiverse/secret-recipe): Kotlin, Spring Boot, JWT, Grafana/Prometheus (In progress).
