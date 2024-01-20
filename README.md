@@ -1,92 +1,52 @@
-# Hello, I'm Jonathan Mantello  
+# Hello, I'm Jonathan Mantello
 
-This is my personal GitHub profile. Here you can find some of my projects and contributions to other projects, as well as some contact information and more about me as a developer.
+Welcome to my GitHub profile, showcasing my journey as a software developer. Feel free to explore my projects and contributions.
 
-## Table of contents
-- [Contact me](#contact-me)
-- [About me](#about-me)
-- [Skills](#skills)
-- [Projects](#projects)
+## Contact
+The best way to connect with me is on [LinkedIn](https://www.linkedin.com/in/jonathan-mantello/).
 
-## Contact me
-The best way to contact me is through my [LinkedIn](https://www.linkedin.com/in/jonathanmantello/) profile.
+## About
+Associate Software Development Engineer (Apprentice) at [Expedia Group](https://www.expediagroup.com), partnered with [Multiverse Apprenticeships](https://www.multiverse.io/en-US/programs).
 
-## About me
-I'm a software developer apprentice and I'm currently working for [Expedia Group](https://www.expediagroup.com), partnered with [Multiverse Apprenticeships](https://www.multiverse.io/en-US/programs).
+### Current Role
+In my current role, I work on a team of developers to build and maintain critical backend services for Expedia Group. 
 
-### My current role with Expedia Group
-In my current role, I work with a team of developers to build and maintain critical backend services for Expedia Group. I've been responsible for the development of the platform's metrics collection and monitoring. I work with Java, Kotlin, and Spring Boot, and I'm familiar with writing documentation, working with CI/CD pipelines, and vulnerability management.
+I've been responsible for the development of the platform's metrics collection and monitoring, as well as vulnerability patching and resolution. I work primarily with Kotlin, Java, and Spring Boot, and I'm familiar with creating and updating documentation, observability with tools like Datadog and Splunk, working with CI/CD pipelines, and managing vulnerabilities.
 
-### My background
-In 2021, I completed an internship with [Envestnet](https://www.envestnet.com) as a back-end software developer intern. I worked with a team of interns to build two projects for Envestnet. I worked with C#, MongoDB, and PostgreSQL, and I was responsible for the development of two RESTful APIs.
+### Background
+- 2021 Intern as back-end developer at [Envestnet](https://www.envestnet.com) with C#, MongoDB, and PostgreSQL.
+- 2022 Computer Science graduate with high honors from [Renton Technical College](https://www.rtc.edu).
 
-In 2022, I graduated in Computer Science at [Renton Technical College](https://www.rtc.edu) with high honors. I participated in the student senate, was a peer tutor, recieved the Guided Pathways IDEAL Fellowship Scholarship, and started the computer science club.
-
-### My interests
-I'm passionate about software development and I'm always looking for opportunities to learn and improve my skills. I also enjoy playing music, and I've been playing the guitar for over 10 years. 
-
+### Interests
+I'm passionate about software development, music (guitarist for 10+ years), technology, sustainable living, and the environment.
 
 ## Skills
-I've had many opportunities to work with different technologies and programming languages throughout my developing career. Rather than listing them all, I'll list the ones I'm most confident and familiar with.
+I've had many opportunities to work with different technologies and programming languages throughout my developing career. Rather than listing them all, I'll list the ones I'm most confident with.
 
-### Project management
-- Agile, Sprint planning
-- Jira
-- Confluence
-
-### Programming languages
-- Java - Spring Boot
-- Kotlin - Spring Boot
-- JavaScript - React
-
-### Development practices
-- Creating services with gRPC
-- Metrics collection and monitoring
-- Creating and maintaining documentation
-- Writing clean code
-- Testing with MockK
-- Vulnerability patching
-
-### CI/CD Pipelines
-- GitHub Actions
-- Spinnaker
-- Jenkins
-- Docker
-
-### Metrics collection and monitoring
-- Spring Boot Actuator
-- Micrometer
-- Splunk
-- Datadog
-
-### Databases
-- MongoDB
-- PostgreSQL
-- SQL Server
+- **Project Management:** Agile, Jira, Confluence, Standups, Retrospectives, Sprint Planning.
+- **Languages:** Java, Kotlin, JavaScript (React), C#.
+- **Practices:** gRPC, Metrics, Documentation, Clean Code, Code Reviews, Unit/Integration Testing.
+- **CI/CD:** GitHub Actions, Spinnaker, Jenkins, Docker.
+- **Monitoring:** Spring Boot Actuator, Micrometer, Splunk, Datadog.
+- **Databases:** MongoDB, PostgreSQL, SQL Server.
 
 ## Projects
-I've had the opportunity to work on many projects during my current apprenticeship, my intership with Envnestnet, and my time with Renton Technical College. Here are some that I've worked on which showcase my growth as a developer over the last few years.
+Explore some of my projects showcasing growth as a developer:
 
-### Apprenticeship projects
-- [Secret Recepi API](https://github.com/jm-multiverse/secret-recipe) - This is a RESTful API built with Kotlin and Spring Boot. It allows users to create, read, update, and delete recipes, and includes advanced server-side features like authentication, authorization with Auth0, testing, and more (In progress).
+### Apprenticeship
+- [Secret Recipe API](https://github.com/jm-multiverse/secret-recipe): Kotlin, Spring Boot, JWT, Grafana/Prometheus (In progress).
+- [Spaceflight News UI](https://github.com/jm-multiverse/spaceflight-news): React, Tailwind CSS.
 
-- [Spaceflight News UI](https://github.com/jm-multiverse/spaceflight-news) - This is a web application built with React and Tailwind CSS. It displays the latest news about spaceflight. It uses the [Spaceflight News API](https://thespacedevs.com/snapi) to fetch the news articles. It's hosted on Render and can be accessed [here](https://spaceflight-news-opu3.onrender.com/).
+### Internship
+- [Student Loan Calculator API](https://github.com/JMantello/Student-Loan-Calculator-API): C#, ASP.NET.
+- [Special Needs Analysis API](https://github.com/JMantello/Special-Needs-Analysis-Calculator-API): C#, ASP.NET.
 
-### Envestnet Internship Projects
-- [Student Loan Calculator API](https://github.com/JMantello/Student-Loan-Calculator-API) - This is a RESTful API built with C# and ASP.NET. It allows users to calculate their student loan payments based on their loan amount, interest rate, and loan term.
+### College Projects
+- [Calendar Web Application](https://github.com/JMantello/Calendar-Web-App): C#, ASP.NET, SQL Server.
+- [To-Do List](https://github.com/JMantello/To-Do-List): HTML, CSS, JavaScript.
+- [Blackjack](https://github.com/JMantello/Blackjack): C#, Windows Forms.
 
-- [Special Needs Analysis API](https://github.com/JMantello/Special-Needs-Analysis-Calculator-API) - This is a RESTful API built with C# and ASP.NET. It's allows users to calculate future expenses for their special needs dependant based on their income, assets, and other factors.
-
-### Renton Technical College Projects
-- [Calendar Web Application](https://github.com/JMantello/Calendar-Web-App) - This is a web application built with C#, ASP.NET, and SQL Server. It was built as a final project for my Web Application Development class and uses an MVC architecture. It allows users to book appointments with other users based on their availability, similar to Calendly.
-
-- [To-Do List](https://github.com/JMantello/To-Do-List) - This is a To-Do List application built with HTML, CSS, and JavaScript, and hosted with GitHub Pages. 
-
-- [Blackjack](https://github.com/JMantello/Blackjack) - This is a Blackjack game built with C# and Windows Forms. It was built as a project for my Object Oriented Programming class.
-
-### Personal projects
-- [JMantello.github.io](https://jmantello.github.io/) - This is my personal portfolio website. It's built with HTML, CSS, and JavaScript, and hosted on GitHub Pages.
-
-- [Movie Theater Python](https://github.com/JMantello/Movie-Theatre-Py) - This is a RESTful API built with Python and Flask. It's a simple API that allows users to create, read, update, and delete movies and showtimes from a database.
-
-- [Authentication with ASP.NET and MongoDB](https://github.com/JMantello/Log-In-System-MongoDB) - This is a simple authentication system built with ASP.NET and MongoDB. It demonstrates how user credentials can be stored in a database with password hashing and salt, and used to authenticate users.
+### Personal
+- [Portfolio Website](https://jmantello.github.io/): HTML, CSS, JavaScript.
+- [Movie Theater Python](https://github.com/JMantello/Movie-Theatre-Py): Python, Flask.
+- [Authentication with ASP.NET and MongoDB](https://github.com/JMantello/Log-In-System-MongoDB): ASP.NET, MongoDB.
