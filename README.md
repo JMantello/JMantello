@@ -3,7 +3,7 @@
 Welcome to my GitHub profile, showcasing my journey as a software developer. Feel free to explore my projects and contributions.
 
 ## Contact
-Connect with me on [LinkedIn](https://www.linkedin.com/in/jonathan-mantello/).
+The best way to connect with me is on [LinkedIn](https://www.linkedin.com/in/jonathan-mantello/).
 
 ## About
 Associate Software Development Engineer (Apprentice) at [Expedia Group](https://www.expediagroup.com), partnered with [Multiverse Apprenticeships](https://www.multiverse.io/en-US/programs).
