@@ -8,8 +8,8 @@ The best way to connect with me is on [LinkedIn](https://www.linkedin.com/in/jon
 ## About
 Associate Software Development Engineer (Apprentice) at [Expedia Group](https://www.expediagroup.com), partnered with [Multiverse Apprenticeships](https://www.multiverse.io/en-US/programs).
 
-### Current Role
-In my current role, I work on a team of developers to build and maintain critical backend services for Expedia Group. 
+### Previous Role
+In my previous role, I worked as an associate-level developer working alongside a team developing and maintaining backend applications, deployment pipelines, monitoring systems, and experiments.
 
 I've been responsible for the development of the platform's metrics collection and monitoring, as well as vulnerability patching and resolution. I work primarily with Kotlin, Java, and Spring Boot, and I'm familiar with creating and maintaining documentation, observability with tools like Datadog and Splunk, creating PRs and engaging in reviews, working with CI/CD pipelines, and managing vulnerabilities.
 
