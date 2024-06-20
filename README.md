@@ -10,8 +10,6 @@ The best way to connect with me is on [LinkedIn](https://www.linkedin.com/in/jon
 ### Previous Role
 Associate Software Development Engineer at [Expedia Group](https://www.expediagroup.com), partnered with [Multiverse Apprenticeships](https://www.multiverse.io/en-US/programs). I completed a 15-month term learning on the job as I worked as both an apprentice completing full-stack apprenticeship learning modules and as an associate-level developer working alongside a team developing and maintaining backend applications, deployment pipelines, monitoring systems, and experiments.
 
-I worked on a team of developers to build and maintain critical backend services, utilizing technologies like Kotlin, Java, and Spring to develop secure RESTful and gRPC APIs through practices like containerization, testing and automation, and application monitoring systems.
-
 ### Background
 - 2023-2024 Associate Software Development Engineer at [Expedia Group](https://www.expediagroup.com).
 - 2022 Computer Science graduate with high honors from [Renton Technical College](https://www.rtc.edu).
