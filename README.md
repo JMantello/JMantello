@@ -14,11 +14,12 @@ In partnership with Multiverse Apprenticeships, I completed a 15-month term lear
 I worked on a team of developers to build and maintain critical backend services, utilizing technologies like Kotlin, Java, and Spring to develop secure RESTful and gRPC APIs through practices like containerization, testing and automation, and application monitoring systems.
 
 ### Background
-- 2021 Intern as back-end developer at [Envestnet](https://www.envestnet.com) with C#, MongoDB, and PostgreSQL.
+- 2023-2024 Associate Software Development Engineer at [Expedia Group](https://www.expediagroup.com).
 - 2022 Computer Science graduate with high honors from [Renton Technical College](https://www.rtc.edu).
+- 2021 Intern as back-end developer at [Envestnet](https://www.envestnet.com) with C#, MongoDB, and PostgreSQL.
 
 ### Interests
-I'm passionate about software development, music (guitarist for 10+ years), technology, sustainable living, and the environment.
+I'm passionate about software development, music (guitarist for 14+ years), technology, sustainable living, and the environment.
 
 ## Skills
 I've had many opportunities to work with different technologies and programming languages throughout my developing career. Rather than listing them all, I'll list the ones I'm most confident with.
