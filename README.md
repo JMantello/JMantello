@@ -1,6 +1,6 @@
 # Hello, I'm Jonathan Mantello
 
-Welcome to my GitHub profile, showcasing my journey as a software developer. Feel free to explore my projects and contributions.
+Welcome to my GitHub profile, showcasing my journey as a software developer. Here you can explore my projects and contributions.
 
 ## Contact
 The best way to connect with me is on [LinkedIn](https://www.linkedin.com/in/jonathan-mantello/).
