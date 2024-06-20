@@ -6,12 +6,12 @@ Welcome to my GitHub profile, showcasing my journey as a software developer. Fee
 The best way to connect with me is on [LinkedIn](https://www.linkedin.com/in/jonathan-mantello/).
 
 ## About
-Associate Software Development Engineer (Apprentice) at [Expedia Group](https://www.expediagroup.com), partnered with [Multiverse Apprenticeships](https://www.multiverse.io/en-US/programs).
 
 ### Previous Role
-In my previous role, I worked as an associate-level developer working alongside a team developing and maintaining backend applications, deployment pipelines, monitoring systems, and experiments.
+Associate Software Development Engineer at [Expedia Group](https://www.expediagroup.com), partnered with [Multiverse Apprenticeships](https://www.multiverse.io/en-US/programs). 
+In partnership with Multiverse Apprenticeships, I completed a 15-month term learning on the job as I worked as both an apprentice completing full-stack apprenticeship learning modules and as an associate-level developer working alongside a team developing and maintaining backend applications, deployment pipelines, monitoring systems, and experiments.
 
-I've been responsible for the development of the platform's metrics collection and monitoring, as well as vulnerability patching and resolution. I work primarily with Kotlin, Java, and Spring Boot, and I'm familiar with creating and maintaining documentation, observability with tools like Datadog and Splunk, creating PRs and engaging in reviews, working with CI/CD pipelines, and managing vulnerabilities.
+I worked on a team of developers to build and maintain critical backend services, utilizing technologies like Kotlin, Java, and Spring to develop secure RESTful and gRPC APIs through practices like containerization, testing and automation, and application monitoring systems.
 
 ### Background
 - 2021 Intern as back-end developer at [Envestnet](https://www.envestnet.com) with C#, MongoDB, and PostgreSQL.
