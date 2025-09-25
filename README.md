@@ -1,6 +1,6 @@
 # Hello, I'm Jonathan Mantello
 
-Welcome to my GitHub profile, showcasing my journey as a software developer. Here you can explore my projects and contributions.
+Welcome to my GitHub profile. Here you can explore my projects and contributions.
 
 ## Contact
 The best way to connect with me is on [LinkedIn](https://www.linkedin.com/in/jonathan-mantello/).
@@ -8,31 +8,30 @@ The best way to connect with me is on [LinkedIn](https://www.linkedin.com/in/jon
 ## About
 
 ### Previous Role
-Associate Software Development Engineer at [Expedia Group](https://www.expediagroup.com), partnered with [Multiverse Apprenticeships](https://www.multiverse.io/en-US/programs). I completed a 15-month term learning on the job as I worked as both an apprentice completing full-stack apprenticeship learning modules and as an associate-level developer working alongside a team developing and maintaining backend applications, deployment pipelines, monitoring systems, and experiments.
+Associate Software Development Engineer at [Expedia Group](https://www.expediagroup.com), partnered with [Multiverse Apprenticeships](https://www.multiverse.io/en-US/programs). I developed backend systems, including deployment pipelines, monitoring systems, testing systems, and application health. 
 
 ### Background
+- 2025 Hiatus - Soul Searching
 - 2023-2024 Associate Software Development Engineer at [Expedia Group](https://www.expediagroup.com).
 - 2022 Computer Science graduate with high honors from [Renton Technical College](https://www.rtc.edu).
 - 2021 Intern as back-end developer at [Envestnet](https://www.envestnet.com) with C#, MongoDB, and PostgreSQL.
 
 ### Interests
-I'm passionate about software development, music (guitarist for 14+ years), technology, sustainable living, and the environment.
+I'm passionate about sustainability and music.
 
 ## Skills
-I've had many opportunities to work with different technologies and programming languages throughout my developing career. Rather than listing them all, I'll list the ones I'm most confident with.
-
-- **Project Management:** Agile, Jira, Confluence, Standups, Retrospectives, Sprint Planning.
 - **Languages:** Java, Kotlin, JavaScript (React), C#.
 - **Practices:** Version Control (Git), gRPC, Metrics, Documentation, Clean Code, Code Reviews, Unit/Integration Testing.
 - **CI/CD:** GitHub Actions, Spinnaker, Jenkins, Docker.
 - **Monitoring:** Spring Boot Actuator, Micrometer, Splunk, Datadog.
+- **Project Management:** Agile, Jira, Confluence, Standups, Retrospectives, Sprint Planning.
 - **Databases:** MongoDB, PostgreSQL, SQL Server.
 
 ## Projects
-Here are some projects to explore showcasing growth as a developer:
+Here are some repositories to explore showcasing my growth as a developer:
 
 ### Apprenticeship
-- [Secret Recipe API](https://github.com/jm-multiverse/secret-recipe): Kotlin, Spring Boot, JWT, Grafana/Prometheus (In progress).
+- [Secret Recipe API](https://github.com/jm-multiverse/secret-recipe): Kotlin, Spring Boot, JWT, Grafana/Prometheus.
 - [Spaceflight News UI](https://github.com/jm-multiverse/spaceflight-news): React, Tailwind CSS.
 
 ### Internship
